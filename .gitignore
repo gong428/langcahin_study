@@ -5,3 +5,4 @@ ignore.py
 #폴더
 
 #파일 유형
+*.yaml
