@@ -6,3 +6,4 @@ ignore.py
 
 #파일 유형
 *.yaml
+*.jpg
